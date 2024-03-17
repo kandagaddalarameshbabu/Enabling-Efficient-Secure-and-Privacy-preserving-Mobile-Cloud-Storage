@@ -1,0 +1,2 @@
+# Enabling-Efficient-Secure-and-Privacy-preserving-Mobile-Cloud-Storage
+Our project transforms MCS by focusing on efficiency, security, and privacy. Through the OSU protocol, we enable seamless retrieval of encrypted data, reducing communication and computation. Utilizing Additively Homomorphic Encryption ensures secure data manipulation, presenting a significant advancement in MCS for modern data management demands.
